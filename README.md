@@ -16,8 +16,14 @@ This is a **Django-based web application** that allows restaurant owners to gene
 - **SQLite** (Database)  
 - **Bootstrap** (Frontend UI)  
 - **qrcode** Python library for QR code generation  
+## 📷 Screenshots  
 
-## Screenshot
-(<Screenshot (54).png>)
-(<Screenshot (55).png>)
+### 🏠 Homepage  
+![Homepage Screenshot](screenshotes/homepage.png)  
+
+### 🔲 QR Code Generation Page  
+![QR Code Screenshot](screenshotes/qr_code.png) 
+
+### 📜 Menu Page  
+![Menu Screenshot](screenshotes/menu.png) 
 
